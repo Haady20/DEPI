@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day02\AssigmentTwo Solution\AssigmentTwo\obj\Debug\net5.0\AssigmentTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day02\AssigmentTwo Solution\AssigmentTwo\obj\Debug\net5.0\AssigmentTwo.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day02\AssigmentTwo Solution\AssigmentTwo\obj\Debug\net5.0\AssigmentTwo.AssemblyInfo.cs
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day02\AssigmentTwo Solution\AssigmentTwo\obj\Debug\net5.0\AssigmentTwo.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day02\AssigmentTwo Solution\AssigmentTwo\bin\Debug\net5.0\AssigmentTwo.exe
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day02\AssigmentTwo Solution\AssigmentTwo\bin\Debug\net5.0\AssigmentTwo.deps.json
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day02\AssigmentTwo Solution\AssigmentTwo\bin\Debug\net5.0\AssigmentTwo.runtimeconfig.json
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day02\AssigmentTwo Solution\AssigmentTwo\bin\Debug\net5.0\AssigmentTwo.runtimeconfig.dev.json
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day02\AssigmentTwo Solution\AssigmentTwo\bin\Debug\net5.0\AssigmentTwo.dll
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day02\AssigmentTwo Solution\AssigmentTwo\bin\Debug\net5.0\AssigmentTwo.pdb
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day02\AssigmentTwo Solution\AssigmentTwo\obj\Debug\net5.0\AssigmentTwo.dll
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day02\AssigmentTwo Solution\AssigmentTwo\obj\Debug\net5.0\refint\AssigmentTwo.dll
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day02\AssigmentTwo Solution\AssigmentTwo\obj\Debug\net5.0\AssigmentTwo.pdb
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day02\AssigmentTwo Solution\AssigmentTwo\obj\Debug\net5.0\AssigmentTwo.genruntimeconfig.cache
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day02\AssigmentTwo Solution\AssigmentTwo\obj\Debug\net5.0\ref\AssigmentTwo.dll
