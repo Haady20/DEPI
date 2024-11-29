@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day02\AssigmentThree Solution\AssigmentThree\bin\Debug\net5.0\AssigmentThree.exe
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day02\AssigmentThree Solution\AssigmentThree\bin\Debug\net5.0\AssigmentThree.deps.json
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day02\AssigmentThree Solution\AssigmentThree\bin\Debug\net5.0\AssigmentThree.runtimeconfig.json
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day02\AssigmentThree Solution\AssigmentThree\bin\Debug\net5.0\AssigmentThree.runtimeconfig.dev.json
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day02\AssigmentThree Solution\AssigmentThree\bin\Debug\net5.0\AssigmentThree.dll
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day02\AssigmentThree Solution\AssigmentThree\bin\Debug\net5.0\AssigmentThree.pdb
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day02\AssigmentThree Solution\AssigmentThree\obj\Debug\net5.0\AssigmentThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day02\AssigmentThree Solution\AssigmentThree\obj\Debug\net5.0\AssigmentThree.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day02\AssigmentThree Solution\AssigmentThree\obj\Debug\net5.0\AssigmentThree.AssemblyInfo.cs
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day02\AssigmentThree Solution\AssigmentThree\obj\Debug\net5.0\AssigmentThree.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day02\AssigmentThree Solution\AssigmentThree\obj\Debug\net5.0\AssigmentThree.dll
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day02\AssigmentThree Solution\AssigmentThree\obj\Debug\net5.0\refint\AssigmentThree.dll
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day02\AssigmentThree Solution\AssigmentThree\obj\Debug\net5.0\AssigmentThree.pdb
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day02\AssigmentThree Solution\AssigmentThree\obj\Debug\net5.0\AssigmentThree.genruntimeconfig.cache
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day02\AssigmentThree Solution\AssigmentThree\obj\Debug\net5.0\ref\AssigmentThree.dll
