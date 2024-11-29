@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day01\AssigmentOne\bin\Debug\net9.0\AssignmentOne.exe
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day01\AssigmentOne\bin\Debug\net9.0\AssignmentOne.deps.json
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day01\AssigmentOne\bin\Debug\net9.0\AssignmentOne.runtimeconfig.json
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day01\AssigmentOne\bin\Debug\net9.0\AssignmentOne.dll
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day01\AssigmentOne\bin\Debug\net9.0\AssignmentOne.pdb
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day01\AssigmentOne\obj\Debug\net9.0\AssignmentOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day01\AssigmentOne\obj\Debug\net9.0\AssignmentOne.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day01\AssigmentOne\obj\Debug\net9.0\AssignmentOne.AssemblyInfo.cs
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day01\AssigmentOne\obj\Debug\net9.0\AssignmentOne.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day01\AssigmentOne\obj\Debug\net9.0\AssignmentOne.dll
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day01\AssigmentOne\obj\Debug\net9.0\refint\AssignmentOne.dll
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day01\AssigmentOne\obj\Debug\net9.0\AssignmentOne.pdb
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day01\AssigmentOne\obj\Debug\net9.0\AssignmentOne.genruntimeconfig.cache
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day01\AssigmentOne\obj\Debug\net9.0\ref\AssignmentOne.dll
