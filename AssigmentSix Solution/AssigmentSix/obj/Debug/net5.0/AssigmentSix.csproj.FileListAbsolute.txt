@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day06\AssigmentSix Solution\AssigmentSix\obj\Debug\net5.0\AssigmentSix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day06\AssigmentSix Solution\AssigmentSix\obj\Debug\net5.0\AssigmentSix.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day06\AssigmentSix Solution\AssigmentSix\obj\Debug\net5.0\AssigmentSix.AssemblyInfo.cs
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day06\AssigmentSix Solution\AssigmentSix\obj\Debug\net5.0\AssigmentSix.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day06\AssigmentSix Solution\AssigmentSix\obj\Debug\net5.0\AssigmentSix.sourcelink.json
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day06\AssigmentSix Solution\AssigmentSix\bin\Debug\net5.0\AssigmentSix.exe
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day06\AssigmentSix Solution\AssigmentSix\bin\Debug\net5.0\AssigmentSix.deps.json
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day06\AssigmentSix Solution\AssigmentSix\bin\Debug\net5.0\AssigmentSix.runtimeconfig.json
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day06\AssigmentSix Solution\AssigmentSix\bin\Debug\net5.0\AssigmentSix.runtimeconfig.dev.json
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day06\AssigmentSix Solution\AssigmentSix\bin\Debug\net5.0\AssigmentSix.dll
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day06\AssigmentSix Solution\AssigmentSix\bin\Debug\net5.0\AssigmentSix.pdb
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day06\AssigmentSix Solution\AssigmentSix\obj\Debug\net5.0\AssigmentSix.dll
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day06\AssigmentSix Solution\AssigmentSix\obj\Debug\net5.0\refint\AssigmentSix.dll
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day06\AssigmentSix Solution\AssigmentSix\obj\Debug\net5.0\AssigmentSix.pdb
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day06\AssigmentSix Solution\AssigmentSix\obj\Debug\net5.0\AssigmentSix.genruntimeconfig.cache
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day06\AssigmentSix Solution\AssigmentSix\obj\Debug\net5.0\ref\AssigmentSix.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AssigmentSix/1.0.0": {
+        "runtime": {
+          "AssigmentSix.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AssigmentSix/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
