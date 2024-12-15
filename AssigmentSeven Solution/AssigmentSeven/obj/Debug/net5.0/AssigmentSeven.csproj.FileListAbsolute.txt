@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day07\AssigmentSeven Solution\AssigmentSeven\bin\Debug\net5.0\AssigmentSeven.exe
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day07\AssigmentSeven Solution\AssigmentSeven\bin\Debug\net5.0\AssigmentSeven.deps.json
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day07\AssigmentSeven Solution\AssigmentSeven\bin\Debug\net5.0\AssigmentSeven.runtimeconfig.json
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day07\AssigmentSeven Solution\AssigmentSeven\bin\Debug\net5.0\AssigmentSeven.runtimeconfig.dev.json
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day07\AssigmentSeven Solution\AssigmentSeven\bin\Debug\net5.0\AssigmentSeven.dll
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day07\AssigmentSeven Solution\AssigmentSeven\bin\Debug\net5.0\AssigmentSeven.pdb
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day07\AssigmentSeven Solution\AssigmentSeven\obj\Debug\net5.0\AssigmentSeven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day07\AssigmentSeven Solution\AssigmentSeven\obj\Debug\net5.0\AssigmentSeven.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day07\AssigmentSeven Solution\AssigmentSeven\obj\Debug\net5.0\AssigmentSeven.AssemblyInfo.cs
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day07\AssigmentSeven Solution\AssigmentSeven\obj\Debug\net5.0\AssigmentSeven.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day07\AssigmentSeven Solution\AssigmentSeven\obj\Debug\net5.0\AssigmentSeven.sourcelink.json
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day07\AssigmentSeven Solution\AssigmentSeven\obj\Debug\net5.0\AssigmentSeven.dll
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day07\AssigmentSeven Solution\AssigmentSeven\obj\Debug\net5.0\refint\AssigmentSeven.dll
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day07\AssigmentSeven Solution\AssigmentSeven\obj\Debug\net5.0\AssigmentSeven.pdb
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day07\AssigmentSeven Solution\AssigmentSeven\obj\Debug\net5.0\AssigmentSeven.genruntimeconfig.cache
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day07\AssigmentSeven Solution\AssigmentSeven\obj\Debug\net5.0\ref\AssigmentSeven.dll
