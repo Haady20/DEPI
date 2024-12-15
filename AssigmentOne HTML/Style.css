@@ -1,0 +1,438 @@
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.roboto-thin {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+
+.roboto-light {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.roboto-medium {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.roboto-bold {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.roboto-black {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+}
+
+.roboto-thin-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: italic;
+}
+
+.roboto-light-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.roboto-regular-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.roboto-medium-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.roboto-bold-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.roboto-black-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+}
+
+:root {
+    --main-header-margin: 15px 50px;
+}
+
+ul {
+    padding: 0;
+}
+
+li {
+    list-style-type: none;
+}
+
+hr {
+    border: 0.5px solid #eeee;
+    margin-bottom: 0;
+
+}
+
+header {
+    display: flex;
+    margin: var(--main-header-margin);
+    justify-content: space-between;
+
+}
+
+.header-img {
+    display: flex;
+    align-items: center;
+}
+
+.header-img img {
+    width: 150px;
+
+}
+
+.header-links {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-links a {
+    display: flex;
+    text-align: center;
+    padding: 10px 25px;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 15px;
+    font-style: italic;
+    color: black;
+}
+
+.gitHub-link {
+    background-color: black;
+    border-radius: 50px;
+}
+
+.gitHub-link a {
+    color: white;
+}
+
+hr+span {
+    display: flex;
+    width: fit-content;
+    margin: var(--main-header-margin);
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 15px 30px;
+    border: 2px solid #eeee;
+    border-top: transparent;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: large;
+    text-transform: uppercase;
+    color: black;
+}
+
+span+hr {
+    margin: -2px;
+}
+
+section.page-selection {
+    margin: 50px;
+    margin-bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    color: gray;
+    font-weight: 500;
+}
+
+section.page-selection p {
+    font-size: large;
+    text-transform: uppercase;
+    margin: 0;
+}
+
+section.page-selection span {
+    margin: 0;
+    font-size: larger;
+}
+
+section+hr {
+    width: 70%;
+}
+
+section.selection-1-content {
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+    margin: 40px 100px;
+    background-color: #e7f0ebe7;
+    border-radius: 30px;
+    border: 2px solid whitesmoke;
+}
+
+div.selection-1-img img {
+    width: 500px;
+}
+
+div.img-bt {
+    display: flex;
+    justify-content: center;
+}
+
+div.img-bt button {
+    padding: 5px;
+    margin: 0px 5px;
+}
+
+
+.selection-1-content-head {
+    position: relative;
+    display: flex;
+    align-items: center;
+    font-size: larger;
+
+}
+
+.selection-1-content-head-info {
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+}
+
+.selection-1-content-head-span {
+    position: absolute;
+    right: 0;
+    border: 2px solid gray;
+    border-radius: 5px;
+}
+
+.selection-1-content h2+p {
+    color: gray;
+}
+
+#bt-1 {
+    padding: 10px;
+    width: 50%;
+    border-radius: 50px;
+    background-color: #cd3333e4;
+    border: none;
+    color: white;
+    font-size: larger;
+    font-weight: bold;
+    font-style: italic;
+}
+
+#bt-2,
+#bt-3 {
+    padding: 10px 20px;
+    border-radius: 50px;
+    border: none;
+    color: white;
+    font-size: small;
+    font-weight: bold;
+    font-style: italic;
+}
+
+#bt-2 {
+    background-color: #8a2be2;
+}
+
+#bt-3 {
+    background-color: #a89797bb;
+}
+
+#span-1,
+#span-2 {
+    padding: 0 10px;
+}
+
+#span-1 {
+    background-color: #9e9ec089;
+    color: white;
+}
+
+#span-2 {
+    text-transform: uppercase;
+    color: #b29898;
+}
+
+#info-1,
+#info-2,
+#info-3 {
+    padding: 0px 10px;
+    border-radius: 50px;
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+#info-1 {
+    background-color: orange;
+}
+
+#info-2 {
+    color: gray;
+}
+
+#info-3 {
+    color: blueviolet;
+}
+
+section.informattion {
+    padding: 30px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 20px;
+    margin: var(--main-header-margin);
+    background-color: #fafafa;
+    border-radius: 30px;
+}
+
+div.brief,
+div.assets,
+div.ideas {
+    font-size: larger;
+    padding: 20px;
+    background-color: #e7f0ebe7;
+    border: 2px solid whitesmoke;
+    border-radius: 20px;
+}
+
+div.brief {
+    grid-row: span 2;
+    line-height: 1.6;
+}
+
+section.challenge-faqs {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-size: larger;
+    font-weight: 500;
+}
+
+div.challenge {
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    border: 2px solid whitesmoke;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+div.discord {
+    margin: var(--main-header-margins);
+    margin-top: 30px;
+    font-size: x-large;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background-color: #4c45cddc;
+    border-radius: 30px;
+    text-align: center;
+}
+
+.discord-sec {
+    margin: 0 auto;
+    width: 70%;
+}
+
+div.discord p:last-of-type {
+    margin: 20px 20px;
+}
+
+div.discord button {
+    padding: 10px 30px;
+    border: none;
+    border-radius: 50px;
+    width: 25%;
+    margin: 20px 0;
+    font-size: large;
+    font-style: italic;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #4b45cd;
+    cursor: pointer;
+}
+
+footer img {
+    width: 200px;
+
+}
+
+footer {
+    margin: var(--main-header-margin);
+    margin-top: 50px;
+}
+
+div.footer-container {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+footer a {
+    color: gray;
+    text-decoration: none;
+}
+
+footer input {
+    border: 2px solid whitesmoke;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+footer input::placeholder {
+    font-size: small;
+    font-weight: bold;
+    color: rgba(128, 128, 128, 0.648);
+}
+
+footer p {
+    color: gray;
+}
+
+footer button {
+    padding: 10px 30px;
+    border: none;
+    border-radius: 50px;
+    width: 25%;
+    margin: 20px 0;
+    /* font-size: large; */
+    font-style: italic;
+    font-weight: bold;
+    text-transform: uppercase;
+    background-color: red;
+    color: white;
+    cursor: pointer;
+}
+
+div.copyrights {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
