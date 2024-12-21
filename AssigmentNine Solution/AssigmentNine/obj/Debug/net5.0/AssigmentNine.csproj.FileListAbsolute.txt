@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day09\AssigmentNine Solution\AssigmentNine\bin\Debug\net5.0\AssigmentNine.exe
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day09\AssigmentNine Solution\AssigmentNine\bin\Debug\net5.0\AssigmentNine.deps.json
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day09\AssigmentNine Solution\AssigmentNine\bin\Debug\net5.0\AssigmentNine.runtimeconfig.json
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day09\AssigmentNine Solution\AssigmentNine\bin\Debug\net5.0\AssigmentNine.runtimeconfig.dev.json
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day09\AssigmentNine Solution\AssigmentNine\bin\Debug\net5.0\AssigmentNine.dll
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day09\AssigmentNine Solution\AssigmentNine\bin\Debug\net5.0\AssigmentNine.pdb
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day09\AssigmentNine Solution\AssigmentNine\obj\Debug\net5.0\AssigmentNine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day09\AssigmentNine Solution\AssigmentNine\obj\Debug\net5.0\AssigmentNine.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day09\AssigmentNine Solution\AssigmentNine\obj\Debug\net5.0\AssigmentNine.AssemblyInfo.cs
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day09\AssigmentNine Solution\AssigmentNine\obj\Debug\net5.0\AssigmentNine.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day09\AssigmentNine Solution\AssigmentNine\obj\Debug\net5.0\AssigmentNine.sourcelink.json
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day09\AssigmentNine Solution\AssigmentNine\obj\Debug\net5.0\AssigmentNine.dll
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day09\AssigmentNine Solution\AssigmentNine\obj\Debug\net5.0\refint\AssigmentNine.dll
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day09\AssigmentNine Solution\AssigmentNine\obj\Debug\net5.0\AssigmentNine.pdb
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day09\AssigmentNine Solution\AssigmentNine\obj\Debug\net5.0\AssigmentNine.genruntimeconfig.cache
+C:\Users\hp\Desktop\DEPI\C# Assigments\Day09\AssigmentNine Solution\AssigmentNine\obj\Debug\net5.0\ref\AssigmentNine.dll
