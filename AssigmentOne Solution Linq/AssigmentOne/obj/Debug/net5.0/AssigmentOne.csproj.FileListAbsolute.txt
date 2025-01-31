@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\DEPI\Linq\Day01\AssigmentOne Solution\AssigmentOne\bin\Debug\net5.0\AssigmentOne.exe
+C:\Users\hp\Desktop\DEPI\Linq\Day01\AssigmentOne Solution\AssigmentOne\bin\Debug\net5.0\AssigmentOne.deps.json
+C:\Users\hp\Desktop\DEPI\Linq\Day01\AssigmentOne Solution\AssigmentOne\bin\Debug\net5.0\AssigmentOne.runtimeconfig.json
+C:\Users\hp\Desktop\DEPI\Linq\Day01\AssigmentOne Solution\AssigmentOne\bin\Debug\net5.0\AssigmentOne.runtimeconfig.dev.json
+C:\Users\hp\Desktop\DEPI\Linq\Day01\AssigmentOne Solution\AssigmentOne\bin\Debug\net5.0\AssigmentOne.dll
+C:\Users\hp\Desktop\DEPI\Linq\Day01\AssigmentOne Solution\AssigmentOne\bin\Debug\net5.0\AssigmentOne.pdb
+C:\Users\hp\Desktop\DEPI\Linq\Day01\AssigmentOne Solution\AssigmentOne\obj\Debug\net5.0\AssigmentOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\DEPI\Linq\Day01\AssigmentOne Solution\AssigmentOne\obj\Debug\net5.0\AssigmentOne.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\DEPI\Linq\Day01\AssigmentOne Solution\AssigmentOne\obj\Debug\net5.0\AssigmentOne.AssemblyInfo.cs
+C:\Users\hp\Desktop\DEPI\Linq\Day01\AssigmentOne Solution\AssigmentOne\obj\Debug\net5.0\AssigmentOne.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\DEPI\Linq\Day01\AssigmentOne Solution\AssigmentOne\obj\Debug\net5.0\AssigmentOne.sourcelink.json
+C:\Users\hp\Desktop\DEPI\Linq\Day01\AssigmentOne Solution\AssigmentOne\obj\Debug\net5.0\AssigmentOne.dll
+C:\Users\hp\Desktop\DEPI\Linq\Day01\AssigmentOne Solution\AssigmentOne\obj\Debug\net5.0\refint\AssigmentOne.dll
+C:\Users\hp\Desktop\DEPI\Linq\Day01\AssigmentOne Solution\AssigmentOne\obj\Debug\net5.0\AssigmentOne.pdb
+C:\Users\hp\Desktop\DEPI\Linq\Day01\AssigmentOne Solution\AssigmentOne\obj\Debug\net5.0\AssigmentOne.genruntimeconfig.cache
+C:\Users\hp\Desktop\DEPI\Linq\Day01\AssigmentOne Solution\AssigmentOne\obj\Debug\net5.0\ref\AssigmentOne.dll
